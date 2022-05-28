@@ -1,0 +1,124 @@
+{
+  "employeeData": [
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "department": "development",
+      "salary": "3546",
+      "isMarried": true,
+      "image": "image (16).png",
+      "id": 1
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "salary": "11380",
+      "department": "development",
+      "isMarried": true,
+      "image": "image (16).png",
+      "id": 2
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "department": "opeartions",
+      "salary": "74938",
+      "isMarried": false,
+      "image": "image (16).png",
+      "id": 3
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "department": "marketing",
+      "salary": "7329",
+      "isMarried": false,
+      "image": "Screenshot 2022-05-15 at 11.13.04 PM (1).png",
+      "id": 4
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "department": "opeartions",
+      "salary": "77484",
+      "isMarried": true,
+      "image": "Screenshot 2022-05-15 at 11.13.04 PM.png",
+      "id": 5
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "department": "development",
+      "salary": "3546",
+      "isMarried": true,
+      "image": "image (16).png",
+      "id": 6
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "salary": "11380",
+      "department": "development",
+      "isMarried": true,
+      "image": "image (16).png",
+      "id": 7
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "department": "opeartions",
+      "salary": "74938",
+      "isMarried": false,
+      "image": "image (16).png",
+      "id": 8
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "department": "marketing",
+      "salary": "7329",
+      "isMarried": false,
+      "image": "Screenshot 2022-05-15 at 11.13.04 PM (1).png",
+      "id": 9
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "department": "opeartions",
+      "salary": "77484",
+      "isMarried": true,
+      "image": "Screenshot 2022-05-15 at 11.13.04 PM.png",
+      "id": 10
+    },
+    {
+      "name": "Muhammed Fahiz P A",
+      "address": "22/1,Pallathukadavil,Thuravumkara",
+      "age": "23",
+      "salary": "87493",
+      "isMarried": true,
+      "image": "image (16).png",
+      "id": 11
+    },
+    {
+      "name": "fahiz",
+      "age": "23",
+      "address": "Pallathukadavil(H), Thuravumkara p.o, Kanjoor",
+      "department": "marketing",
+      "salary": "8399",
+      "isMarried": true,
+      "image": "Screenshot (114).png",
+      "id": 12
+    }
+    
+  ]
+}
